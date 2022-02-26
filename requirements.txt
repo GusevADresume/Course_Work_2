@@ -1,0 +1,6 @@
+vk_api
+binascii
+dateutil
+requests
+sqlalchemy
+psycopg2
